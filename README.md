@@ -1,9 +1,13 @@
 # Cloud-Computing-Docker-container-build
 An attempt to create a docker container to deploy and run a sample web application
 
+Project by- Priyanka (MT19AIE285)
+
 1. Install Docker on the system
 2. Go to create a folder on system named Docker-testing. Create a Dockerfile with the name Dockerfile (exact name with no extension). Command line is better suited for this purpose. Tu run, download the file shared here with the same name.
 3. Create your web application in the same folder. For web application, the web app given in this repo can also be used i.e. mywebapp.html. The below is a screenshot of mywebapp.html. It is a web based Calculator.
+
+The web app is an online calculator which allows you to calculate simple functions mostly arithematical.
 
 ![image](https://user-images.githubusercontent.com/67788727/131698909-7d5ba3df-688a-41d2-ac59-a92ca14d5696.png)
 
