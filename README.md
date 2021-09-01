@@ -18,4 +18,4 @@ An attempt to create a docker container to deploy and run a sample web applicati
 	
 	Now run the web app in the container just created. It can also be run through host machine with the localhost mentioning the port number and web app name.
 	
-	
+	e.g.     http://localhost/mywebapp.html
